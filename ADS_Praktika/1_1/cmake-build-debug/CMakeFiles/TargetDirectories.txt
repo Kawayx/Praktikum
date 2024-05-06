@@ -1,0 +1,3 @@
+/Users/kawa/Desktop/ADS_Praktika/1_1/cmake-build-debug/CMakeFiles/ADS_Praktika.dir
+/Users/kawa/Desktop/ADS_Praktika/1_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kawa/Desktop/ADS_Praktika/1_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
